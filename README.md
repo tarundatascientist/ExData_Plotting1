@@ -1,3 +1,15 @@
+## Solution
+
+Each of these r scripts need to be placed in the location where in the data file has been extracted. These files will load the data file and generate the graphs and save the png files in the same locations.
+
+# How to use
+source(“plotx.r”)
+generatePlotx()
+
+x is either 1,2,3 or 4
+
+——————————————————————————————————————————————————————————————————————————————————————————
+
 ## Introduction
 
 This assignment uses data from
